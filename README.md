@@ -26,6 +26,7 @@ A kvantuminternet egy olyan hálózat, amely a kvantummechanika törvényein ala
 - egy vagy több kubites kapu megoldások
 - NP teljes problémák egy részhalmazát lehet megoldani [D-Wave](https://www.dwavesys.com/) megoldásokkal
 
+kvantumpontokról bővebben: https://fizipedia.bme.hu/index.php/Kvantump%C3%B6tty%C3%B6k
 
 - elvileg zaj ellen jobban védett topologikus kvantumszámítási modellek, nagyobb és stabilabb rendszereket lehet épíeni [Majorana részecskék](https://www.youtube.com/watch?v=LTatUEj3oG4)en alapuló gépekkel.
 - OpenSuperQ: https://opensuperq.eu/
